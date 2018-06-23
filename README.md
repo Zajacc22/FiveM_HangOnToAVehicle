@@ -7,8 +7,8 @@ Created by G.H.0.S.T
 <img src="https://i.imgur.com/VIqIB7q.png"/>
 
 ###### Instructions
-Place folder in resources<br>
-Face a vehicle that allows you to hang on to the side and press G, the button can be changed in cl_hang.lua to your preference.
+- Drag HangOntoAVehicle folder into your resources folder<br>
+- Face a vehicle that allows you to hang on to the side and press G, the button can be changed in cl_hang.lua to your preference.
 
 ###### Supported models
 ```
