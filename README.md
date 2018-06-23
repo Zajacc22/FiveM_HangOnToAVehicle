@@ -7,6 +7,7 @@ Created by G.H.0.S.T
 <img src="https://forum.fivem.net/uploads/default/original/3X/0/2/02acc2c6e443cbaa08d10c328e4634aeee6e5122.png"/>
 
 ###### Instructions
+Place folder in resources
 Face a vehicle that allows you to hang on to the side and press G, the button can be changed in cl_hang.lua to your preference.
 
 ###### Supported models
