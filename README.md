@@ -26,6 +26,13 @@ http://www.lcpdfr.com/files/file/15482-2016-chevrolet-suburban/
 Changelog
 Version 1.1
 ```
+###### For model creators
+If you want this script to support your vehicle model, then you need to add outside seats to the vehicle model.
+Example, as you can see in the picture below, the default granger has 8 total seats with 4 of them being on the outside. 
+If your model supports this, please contact me so I can add the model to the supported models' list
+
+<img src="https://i.imgur.com/gws9D6d.jpg"/>
+
 ###### Changelog
 - Added supported all default supported models
 - Removed driver occupation requirement
