@@ -34,5 +34,6 @@ If your model supports this, please contact me so I can add the model to the sup
 <img src="https://i.imgur.com/gws9D6d.jpg"/>
 
 ###### Changelog
+Version 1.1
 - Added supported all default supported models
 - Removed driver occupation requirement
