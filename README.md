@@ -4,10 +4,10 @@ This script allows players to hang on the side of specific vehicles.
 Created by G.H.0.S.T
 
 ###### Preview
-<img src="https://forum.fivem.net/uploads/default/original/3X/0/2/02acc2c6e443cbaa08d10c328e4634aeee6e5122.png"/>
+<img src="https://i.imgur.com/VIqIB7q.png"/>
 
 ###### Instructions
-Place folder in resources
+Place folder in resources<br>
 Face a vehicle that allows you to hang on to the side and press G, the button can be changed in cl_hang.lua to your preference.
 
 ###### Supported models
