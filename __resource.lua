@@ -2,7 +2,7 @@
 
 	Created by G.H.0.S.T aka mPH4NT0M
 	2018/06/23
-	Version 1.0
+	Version 1.1
 
 	This script allows players to hang on the side of specific vehicles.
 
