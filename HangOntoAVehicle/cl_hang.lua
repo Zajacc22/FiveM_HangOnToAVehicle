@@ -60,7 +60,7 @@ function SetPedHangOnVehicle()
 
 		if not IsVehicleSeatFree(vehicle, -1) or not AreAnyVehicleSeatsFree(vehicle) then
 			if has_value(vehicles, name) then
-				if name == "GRANGER" then
+				if name == "GRANGER" or "PRANGER" or "FBI2" then
 					-- Right side equals even number (for future improvments)
 					SetPedIntoVehicle(ped, vehicle, 3 or 4 or 5 or 6) 
 				else
