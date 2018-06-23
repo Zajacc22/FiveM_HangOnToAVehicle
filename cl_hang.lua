@@ -54,7 +54,7 @@ function SetPedHangOnVehicle()
 		hanging on side depending on vehicle from array above.
  	]]--
   	if isVehicle then 
-		local vehicles = {'GRANGER', 'ROOSEVELT', 'ROOSEVELT2'} -- Add allowed vehicles here
+		local vehicles = {'GRANGER', 'ROOSEVELT', 'ROOSEVELT2', 'FBI2', 'PRANGER'} -- Add allowed vehicles here
   		local model = GetEntityModel(vehicle)
 		local name = GetDisplayNameFromVehicleModel(model)
 
